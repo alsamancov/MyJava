@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a893f60-5fde-4f1d-96ba-b0ea3f63cd3d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OracleTutorial/Lesson003/BlockDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OracleTutorial/Lesson003/IfElseDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyJava.iws" />
@@ -580,7 +577,7 @@
       <updated>1432805255746</updated>
       <workItem from="1433312637924" duration="4655000" />
       <workItem from="1433402891642" duration="586000" />
-      <workItem from="1433409439848" duration="1085000" />
+      <workItem from="1433409439848" duration="1128000" />
     </task>
     <task id="LOCAL-00001" summary="my commit&#10;">
       <created>1432806227778</created>
@@ -590,11 +587,15 @@
       <created>1433314059153</created>
       <updated>1433314059153</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" my 2nd Denis Idea commit">
+      <created>1433415149103</created>
+      <updated>1433415149103</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6326000" />
+    <option name="totallyTimeSpent" value="6369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1608" y="-8" width="1616" height="916" extended-state="6" />
@@ -645,7 +646,8 @@
     </option>
     <MESSAGE value="my commit&#10;" />
     <MESSAGE value=" my Denis Idea commit" />
-    <option name="LAST_COMMIT_MESSAGE" value=" my Denis Idea commit" />
+    <MESSAGE value=" my 2nd Denis Idea commit" />
+    <option name="LAST_COMMIT_MESSAGE" value=" my 2nd Denis Idea commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
