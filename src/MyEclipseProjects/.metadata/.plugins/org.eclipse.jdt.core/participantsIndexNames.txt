@@ -1,0 +1,7 @@
+INDEX VERSION 1.126
+C:\MyJava\src\MyEclipseProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\588096287.index
+\DemoWebProject2\src
+C:\MyJava\src\MyEclipseProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2294665565.index
+\DemoWebProject2\src
+C:\MyJava\src\MyEclipseProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3926282503.index
+\demojspatozknowledge\src
